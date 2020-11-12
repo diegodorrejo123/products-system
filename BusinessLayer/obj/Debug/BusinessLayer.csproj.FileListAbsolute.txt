@@ -1,0 +1,11 @@
+C:\Users\Pc\Documents\vs\products_system\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Pc\Documents\vs\products_system\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Pc\Documents\vs\products_system\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\Pc\Documents\vs\products_system\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Pc\Documents\vs\products_system\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\Pc\Documents\vs\products_system\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Pc\Documents\vs\products_system\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Pc\Documents\vs\products_system\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\vs\products_system\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Pc\Documents\vs\products_system\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Pc\Documents\vs\products_system\BusinessLayer\obj\Debug\BusinessLayer.pdb
